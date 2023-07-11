@@ -15,3 +15,5 @@ This is the repository for my thesis codes.
 
 6- Neural Network Collaborative Filtering 
 
+
+Compare to my thesis, there are quite changes in the code, and also the dataset has changed. 
