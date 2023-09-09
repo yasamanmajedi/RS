@@ -1,4 +1,4 @@
-# Thesis
+# Recommender Systems
 This is the repository for my thesis codes. 
 
 #The Matrix Factorization Algorithms implemented are:
