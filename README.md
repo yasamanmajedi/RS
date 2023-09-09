@@ -1,7 +1,7 @@
 # Recommender Systems
 This is the repository for my thesis codes. 
 
-#The Matrix Factorization Algorithms implemented are:
+The Matrix Factorization Algorithms implemented are:
 
 1- Basic Matrix Factorization
 
